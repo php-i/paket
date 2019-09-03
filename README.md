@@ -4,7 +4,7 @@
 
 PHP I: Paket satisfies application requirements. Manage dependencies without switching to command line!
 
-The purpose of this package is to provide a set of common interfaces for Package Dependency Management.
+The purpose of this package is to provide a set of common interfaces for Application Dependency Management.
 
 ## Requirements
 

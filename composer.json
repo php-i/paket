@@ -1,6 +1,6 @@
 {
   "name": "php-i/paket",
-  "description": "Social Reactions System Interfaces",
+  "description": "Application Dependency Management Interfaces",
   "type": "library",
   "license": "MIT",
   "keywords": [
