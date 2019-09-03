@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of PHP Contracts: Paket.
+ * This file is part of PHP I: Paket.
  *
  * (c) Anton Komarev <anton@komarev.com>
  *
