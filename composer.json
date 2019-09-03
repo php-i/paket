@@ -1,0 +1,54 @@
+{
+  "name": "php-i/paket",
+  "description": "Social Reactions System Interfaces",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "i",
+    "php-i",
+    "unitype",
+    "paket",
+    "composer",
+    "packagist",
+    "package",
+    "manager",
+    "management",
+    "repository",
+    "packet",
+    "paket",
+    "dependency",
+    "artifact",
+    "library",
+    "development",
+    "gui"
+  ],
+  "authors": [
+    {
+      "name": "Anton Komarev",
+      "email": "anton@komarev.com",
+      "homepage": "https://komarev.com",
+      "role": "Developer"
+    }
+  ],
+  "homepage": "https://github.com/php-i/paket",
+  "support": {
+    "email": "open@cybercog.su",
+    "issues": "https://github.com/php-i/paket/issues",
+    "wiki": "https://github.com/php-i/paket/wiki",
+    "source": "https://github.com/php-i/paket",
+    "docs": "https://github.com/php-i/paket/wiki"
+  },
+  "require": {
+    "php": "^7.1.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "I\\Paket\\": "src/"
+    }
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable" : true
+}
